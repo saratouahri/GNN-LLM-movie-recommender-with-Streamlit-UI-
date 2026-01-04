@@ -1,7 +1,9 @@
-pandas
-networkx
-matplotlib
-torch
-torchvision
-scikit-learn
-torch-geometric
+streamlit==1.39.0
+pyvis==0.3.2
+torch==2.5.1
+torch-geometric==2.6.1
+sentence-transformers==3.3.1
+networkx==3.4.2
+pandas==2.2.2
+scikit-learn==1.5.2
+joblib==1.4.2
