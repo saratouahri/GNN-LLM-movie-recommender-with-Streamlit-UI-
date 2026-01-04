@@ -127,8 +127,7 @@ def main():
 
         **Result**: 26% higher accuracy than GNN or LLM alone.
         """)
-        st.image("https://miro.medium.com/v2/resize:fit:1400/1*_vRJg3OkKmI36xXrKJq_tA.png", 
-                 caption="Hybrid GNN + LLM Architecture", use_container_width=True)
+        
 
 if __name__ == "__main__":
     main()
